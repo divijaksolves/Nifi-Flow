@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1770890953684,
+    "description" : "",
+    "identifier" : "Redis-to-S3",
+    "lastModifiedTimestamp" : 1770890953684,
+    "name" : "Redis to S3",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
