@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1770893662270,
+    "description" : "",
+    "identifier" : "SampleJson-to-CSV-File",
+    "lastModifiedTimestamp" : 1770893662270,
+    "name" : "Sample(Json to CSV File)",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
