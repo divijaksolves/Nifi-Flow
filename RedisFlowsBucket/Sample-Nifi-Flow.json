@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1770892171613,
+    "description" : "",
+    "identifier" : "Sample-Nifi-Flow",
+    "lastModifiedTimestamp" : 1770892171613,
+    "name" : "Sample Nifi Flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
